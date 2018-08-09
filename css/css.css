@@ -1,0 +1,11 @@
+body{
+  background-color:#343a40;
+  color:#17a2b8;
+}
+.centro{
+  margin-top:100px;            
+}
+pre{
+  min-height:400px;
+  text-align: left;
+}
